@@ -1,0 +1,18 @@
+h1{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    background-color: darksalmon;
+    border: 2px solid rgb(247, 244, 98);
+}
+ul{
+    display: block;
+}
+a{
+    background-color:antiquewhite;
+    border: 1px solid;
+}
+img{
+    margin-left: 100px;
+    border: 3px solid greenyellow;
+}
